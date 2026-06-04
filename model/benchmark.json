@@ -1,0 +1,1 @@
+{"models": ["RandomForest", "BaggingRegressor", "HistGradientBoosting", "LGBMRegressor", "XGBoost"], "rmse": [1.323, 1.323, 1.357, 1.375, 1.38], "r2": [0.677, 0.677, 0.66, 0.651, 0.649]}

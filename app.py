@@ -53,7 +53,7 @@ st.sidebar.caption("Dataset : data.gouv.fr / AFD / SNPC-OCDE")
 # PAGE : INTRODUCTION
 # ═════════════════════════════════════════════════════════════════════════════
 if page == "Introduction":
-    st.title("🌍 Aide Publique au Développement française")
+    st.title("🌍 Aide Publique au Développement - France")
     st.markdown("### Exploration, Pre-processing & Modélisation Machine Learning")
     st.markdown("---")
 

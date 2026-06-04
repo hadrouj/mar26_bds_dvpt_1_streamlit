@@ -461,7 +461,7 @@ elif page == "Modélisation Régression":
 elif page == "Modélisation Classification":
     st.title("Modélisation Classification")
 
-    st.success("**Performances finales **— BaggingClassifier sur le test set (n = 15 805)" \
+    st.success("**Performances finales**— BaggingClassifier sur le test set (n = 15 805)" \
     "\n\n **Accuracy** = 0,611  |  **F1-score macro** = 0,610  |  **ROC AUC (OvR, weighted)** = 0,847")
 
 
